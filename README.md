@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**AntonioGerald/AntonioGerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi 👋, I'm Petra
+I'm a Junior Fullstack Developer from Indonesia, currently studying at SMKN 1 Kota Bengkulu (PPLG).
+### 🛠 Tech Stack
+- 💻 Languages: Java, PHP, Python  
+- 🎨 UI/UX: Figma  
+- 🗄️ Database: MySQL, SQLite  
+- ⚙️ Tools: Git, VSCode, Android Studio
+![Petra's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+### 🚀 Featured Projects
+- [🧠 AI Text Summarizer]([Link To Repo](https://github.com/AntonioGerald/text_summarizer)) – Python web app using HuggingFace model
