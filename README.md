@@ -36,18 +36,17 @@
 ---
 
 ## 🚀 Featured Projects
-- 🎵 [**Music Player App**](https://github.com/AntonioGerald/music-app) – Android app with ExoPlayer, Room DB, and Favorites system  
-- ☕ [**POS Cafe App**](https://github.com/AntonioGerald/pos-cafe) – Cafe POS app with MySQL + Supabase  
-- 🧠 [**AI Text Summarizer**](https://github.com/AntonioGerald/ai-summarizer) – Python web app using HuggingFace model  
+- 🎵 [**Music Player App**](https://github.com/AntonioGerald/PetraPlay) – Android app with ExoPlayer, Room DB, and Favorites system  
+- 🧠 [**AI Text Summarizer**](https://github.com/AntonioGerald/text_summarizer) – Python web app using HuggingFace model  
 
 ---
 
 ## 📫 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/AntonioGerald">
+  <a href="https://www.linkedin.com/in/petra-antonio-9b627b327/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourname@gmail.com">
+  <a href="mailto:nightforces351@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AntonioGerald">
